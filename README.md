@@ -25,10 +25,12 @@
 
 本文件限制上传大小为150M，是字节数。可以根据需要修改文件大小和注释。
 
+文件放到SVN资源库的hooks目录下。
+
 希望能帮到大家^_^
 
 This procedure for the Windows version of the limit Upload SVN file size to 150M, is the number of bytes.
-You can change the file size and message in the program as needed.
+You can change the file size and message in the program as needed. Put it into the folder hooks,
 
 顺便宣传下我的动漫图片壁纸站：http://www.aicookie.com/ 
 
