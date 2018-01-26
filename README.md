@@ -29,6 +29,8 @@
 
 希望能帮到大家^_^
 
+如果喜欢请Star，如果转载请注明本项目地址。
+
 This procedure for the Windows version of the limit Upload SVN file size to 150M, is the number of bytes.
 You can change the file size and message in the program as needed. Put it into the folder hooks,
 
